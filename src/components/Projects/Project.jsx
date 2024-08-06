@@ -31,6 +31,14 @@ const Project = () => {
         "https://cdn.sanity.io/images/uohvziyc/production/6a50fd7ba02da52912c9f128d989b19ff871cebc-1830x761.png",
       codeUrl: "https://github.com/William73920/NotesApp",
     },
+    {
+      name: "Movie Search App",
+      description: "A full fledged movie search app with cast and trailers",
+      url: "https://master--beautiful-monstera-07947d.netlify.app/",
+      imgUrl:
+        "https://cdn.sanity.io/images/uohvziyc/production/a6cf91e4e1db1e9516551a1725828946c101a7e7-1107x874.png",
+      codeUrl: "https://github.com/William73920/Movie_Search",
+    },
   ];
 
   return (

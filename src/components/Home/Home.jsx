@@ -8,6 +8,8 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faGithub } from "@fortawesome/free-brands-svg-icons";
 import will from "../../assets/will.jpg";
 
+//https://th.bing.com/th/id/OIG4.weI12A9sUGjvaabLi_N3?pid=ImgGn
+
 const Home = () => {
   return (
     <div className="hero-container" id="home">
