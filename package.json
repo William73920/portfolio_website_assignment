@@ -1,12 +1,12 @@
 {
-  "homepage": "https://github.com/William73920/portfolio_website_assignment",
+  "homepage": "https://William73920.github.io/portfolio_website_assignment/",
   "name": "portfolio_website",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
+    "deploy": "gh-pages -d dist",
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
